@@ -1,0 +1,4 @@
+colorstar
+=========
+
+self
